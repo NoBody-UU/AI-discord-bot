@@ -45,4 +45,4 @@ I hope you enjoy using the bot and feel free to reach out to me if you need any 
 
 
 | ¡Please leave a ⭐ to help the project|
-|----------------------------------------------|#
+|----------------------------------------------|
